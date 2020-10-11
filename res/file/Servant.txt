@@ -1,3 +1,4 @@
+Saber 齋藤一 3
 Saber 巴御前 3 
 Saber ディオスクロイ 3 
 Saber アストルフォ 3 
@@ -34,6 +35,7 @@ Saber アルトリア・ペンドラゴン〔リリィ〕 3
 Saber アルトリア・ペンドラゴン〔オルタ〕 4
 Saber アルトリア・ペンドラゴン 4
 
+Archer 織田信勝 3
 Archer イリヤスフィール 3
 Archer 清少納言 3
 Archer 超人オリオン 3
@@ -257,6 +259,7 @@ Berserker ヘラクレス 3
 
 Shielder マシュ・キリエライト 7
 
+Ruler 卑彌呼 3
 Ruler アルトリア・ペンドラゴン 3
 Ruler アストライア 3
 Ruler ケツァル・コアトル〔サンバ／サンタ〕 5
